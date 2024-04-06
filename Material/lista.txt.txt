@@ -1,3 +1,6 @@
 fiambre
 milanesa
 agua
+galletitas 
+pan
+chocolates
